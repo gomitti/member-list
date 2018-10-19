@@ -1,4 +1,4 @@
-[
+[	
     {
         "id": "1200 8524 8479 3341",
         "name": "銀猫",
@@ -40,6 +40,17 @@
             {
                 "seriveceName": "misskey",
                 "id": "@M323"
+            }
+        ]
+    },
+    {
+        "id": "7003 2753 1842 0930",
+        "name": "もみつち",
+        "email": "g0m1tt1@outlook.jp",
+        "sns": [
+            { 
+                "seriveceName": "beluga",
+                "id": "@gomitti"
             }
         ]
     }
